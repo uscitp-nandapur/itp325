@@ -1,6 +1,6 @@
 package itp325;
 
-public class hw3a 
+public class hw03a 
 {
     public static void main(String[] args) 
     {
